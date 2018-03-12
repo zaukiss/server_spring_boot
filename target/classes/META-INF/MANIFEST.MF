@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Rest-javaEE
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: iosdev
+Implementation-Vendor-Id: serveur.mobile
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/Rest-javaEE/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
